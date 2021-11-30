@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ardi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hdowlsh/Hdowlsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m    :ardi
+- kelas         : 9
+- asal          :jawa barat Bandung
+- umur          :14
+- tanggal lahir : 03-07-2007
